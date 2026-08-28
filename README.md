@@ -4,7 +4,7 @@
 
 ### HR Analytics Dashboard
 
-![HR Analytics Dashboard](HR Analytics Dashboard Overview.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard_Overview.png)
 
 ---
 
